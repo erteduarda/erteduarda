@@ -1,4 +1,4 @@
-<h2>Hey, whats happenin?</h2>
+<h2>Hey, what's happenin?</h2>
 
 <img align="left" src="https://media1.giphy.com/media/SKGo6OYe24EBG/giphy.gif?cid=ecf05e47k50gvrils3gq4175co65n3liudtr5urjjo3fqq6o&rid=giphy.gif" width="120">
 <p><em>Software Engineering at <a href="http://www.unb.br">University of Brasilia</a></em></p>
