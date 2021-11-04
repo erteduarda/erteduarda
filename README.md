@@ -1,14 +1,6 @@
-<h2>Hey, what's happenin?</h2>
+## Hey, what's happenin?
 
-<img align="left" src="https://media1.giphy.com/media/SKGo6OYe24EBG/giphy.gif?cid=ecf05e47k50gvrils3gq4175co65n3liudtr5urjjo3fqq6o&rid=giphy.gif" width="120">
-<p><em>Software Engineering at <a href="http://www.unb.br">University of Brasilia</a></em></p>
-
-[![Linkedin: Eduarda Tavares](https://img.shields.io/badge/-erteduarda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erteduarda/)](https://www.linkedin.com/in/eduarda-tavares-188a59159/)
-[![GitHub Eduarda Tavares](https://img.shields.io/github/followers/erteduarda?label=follow&style=social)](https://github.com/erteduarda)
-
-<br/>
-
-### A little bit about me
+#### A little bit about me
 
 ```javascript
 const Eduarda Tavares = {
@@ -18,19 +10,78 @@ const Eduarda Tavares = {
   Interests: {"Frontend Development and Interface Design"}
 }
 ```
+
+<!--<div> 
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="#" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="#"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/erteduarda/erteduarda/blob/output/github-contribution-grid-snake.svg)
+</div>
+<br/> -->
+
+#### GitHub Stats ✔️
+<br>
+<div align="start">
+  <a href="https://github.com/erteduarda">
+  <img height="125em" src="https://github-readme-stats.vercel.app/api?username=erteduarda&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erteduarda&layout=compact&langs_count=7&theme=gruvbox"/>
+</div>
+
+<div style="display: inline_block"><br>
+  <h5>Programming Language</h5>
+  <img align="center" alt="Duda-Js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Duda-Python" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Duda-C" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
+  <img align="center" alt="Duda-C++" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg">
+  <img align="center" alt="Duda-Csharp" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg">
+  <img align="center" alt="Duda-Ruby" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg">
+  <img align="center" alt="Duda-Java" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
+  <img align="center" alt="Duda-PHP" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+  <br><br>
+  
+  <h5>HTML & CSS</h5>
+  <img align="center" alt="Duda-HTML" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
+  <img align="center" alt="Duda-CSS" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
+  <br><br>
+  
+  <h5>Framework</h5>
+  <img align="center" alt="Duda-Bootstrap" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
+  <img align="center" alt="Duda-rails" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg">
+  <br><br>
+  
+  <h5>Adobe</h5>
+  <img align="center" alt="Duda-XD" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg">
+  <img align="center" alt="Duda-Illustrator" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
+  <img align="center" alt="Duda-psd" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
+  <img align="center" alt="Duda-Pr" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg">
+  <img align="center" alt="Duda-Ae" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg">
+  <br><br>
+  
+  <h5>Database</h5>
+  <img align="center" alt="Duda-MySQL" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <br><br>
+  
+  <h5>CMS</h5>
+  <img align="center" alt="Duda-WP" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
+  <br><br>
+  
+  <h5>Game Engine</h5>
+  <img align="center" alt="Duda-Unity" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
+  <br><br>
+  
+  <h5>Library</h5>
+  <img align="center" alt="Duda-jquery" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg">
+  <br><br>
+  
+  <h5>Electronics</h5>
+  <img align="center" alt="Duda-RP" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg">  
+  <img align="center" alt="Duda-Arduino" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
+  <br><br>
+</div>
 <br/>
 
-<h2>GitHub Stats ✔️ <br><br>
-
-<a href="https://github.com/erteduarda/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=erteduarda&show_icons=true&include_all_commits=true&theme=radical" alt="Eduarda Tavares's github stats" />
-</a>
-<a href="https://github.com/erteduarda/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erteduarda&layout=compact&theme=radical" />
-</a>
-
-
-<br/>
-
-<p align="center"><b><em> That's an introduction about me. Anything else, look me up on the social media.</em></b></p>
+<h7 align="center"><b><em> That's an introduction about me. Anything else, look me up on the social media.</em></b></h7>
