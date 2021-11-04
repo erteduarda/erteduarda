@@ -10,8 +10,8 @@ const Eduarda Tavares = {
   Interests: {"Frontend Development and Interface Design"}
 }
 ```
-
-<!--<div> 
+<!--
+<div> 
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="#" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
@@ -25,11 +25,13 @@ const Eduarda Tavares = {
 
 #### GitHub Stats ✔️
 <br>
-<div align="start">
+<div align="center">
   <a href="https://github.com/erteduarda">
   <img height="125em" src="https://github-readme-stats.vercel.app/api?username=erteduarda&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erteduarda&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
+  
+![Snake animation](https://github.com/erteduarda/erteduarda/blob/output/github-contribution-grid-snake.svg)
 
 <div style="display: inline_block"><br>
   <h5>Programming Language</h5>
@@ -84,4 +86,4 @@ const Eduarda Tavares = {
 </div>
 <br/>
 
-<h7 align="center"><b><em> That's an introduction about me. Anything else, look me up on the social media.</em></b></h7>
+<h10 align="center"><em> That's an introduction about me. Anything else, look me up on the social media.</em></h10>
