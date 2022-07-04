@@ -5,8 +5,8 @@
 ```javascript
 const Eduarda Tavares = {
   pronouns: "she" | "her",
-  code: [ Python, Javascript, C++, HTML, CSS ],
-  tools: [ bootstrap, jquery],
+  code: [ Python, Javascript, C++, HTML, CSS, PHP ],
+  tools: [ bootstrap, jquery ],
   Interests: {"Frontend Development and Interface Design"}
 }
 ```
