@@ -21,7 +21,7 @@
 const Eduarda Tavares = {
   code: [ Javascript, React, NodeJS, HTML, CSS, PHP, Python ],
   tools: [ Bootstrap, JQuery, Next ],
-  divin in: [ DevOps, Machine Learning, IA, Embedded, C, C#, C++ ],
+  divin in: [ DevOps, Machine Learning, AI, Embedded, C, C#, C++ ],
   hobbies: [ Music, Esports, Sports, Reading ],
   Interests: {"Full Stack Development and Interface Design"}
 }
