@@ -21,7 +21,7 @@ const duda = {
 [YouTube]: https://www.youtube.com/@MakerOcean-mo
 [linkedin]: https://www.linkedin.com/in/eduardartavares/
 [x]: https://x.com/duds_tavares
-[gmail]: erteduarda@gmail.com
+[gmail]: mailto:erteduarda@gmail.com
 
 <summary><h2>Ferramentas Preferidas</h2></summary>
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
