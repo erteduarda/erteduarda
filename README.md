@@ -5,11 +5,11 @@
 ```javascript
 const duda = {
   resumo:
-    "Dev full stack há ~5 anos. Adoro transformar ideia em produto: react + node + python + aws. automação, dados e ux bonita. Às vezes brinco com tableau (apis/extensões). Café, música e um monte de código. ☕",
+    "Dev full stack Pleno. Adoro transformar ideia em produtoe e às vezes brinco com tableau (apis/extensões) ::: Café, música e um monte de código. ☕",
 };
 ```
 
-### Connect with me:
+### Contato:
 
 [![Instagram](https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=)][instagram]
 [![YouTube](https://img.shields.io/static/v1?style=for-the-badge&message=Youtube&color=EA4335&logo=Youtube&logoColor=FFFFFF&label=)][YouTube]
@@ -85,7 +85,7 @@ const duda = {
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
 <a href="https://github.com/erteduarda"><img alt="Eduarda Tavares Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=erteduarda&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=c861ff&icon_color=c861ff" height="192px"/></a>
-<a href="https://github.com/erteduarda"><img alt="Eduarda Tavares Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=erteduarda&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=c861ff&icon_color=c861ff&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+<a href="https://github.com/erteduarda"><img alt="Eduarda Tavares Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=erteduarda&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=c861ff&icon_color=c861ff&hide=Jupyter%20Notebook,Roff,CSS,HTML,Mako,scss" height="192px"/></a>
 <br/>
 
 <b>Note:</b> As linguagens listadas são uma métrica automática do repositórios públicos, portanto, não correspondem necessariamente ao meu domínio técnico.
