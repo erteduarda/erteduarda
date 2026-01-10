@@ -5,7 +5,7 @@
 ```javascript
 const duda = {
   resumo:
-    "Dev full stack Pleno. Adoro transformar ideia em produtoe e às vezes brinco com IA ::: Café, música e um monte de código. ☕",
+    "Dev full stack Pleno. Adoro transformar ideia em produto e às vezes brinco com IA ::: Café, música e um monte de código. ☕",
 };
 ```
 
