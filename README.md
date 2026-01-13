@@ -78,18 +78,18 @@ const duda = {
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
 </p>
 
-<summary><h2>Status e Atividade</h2></summary>
+<!-- <summary><h2>Status e Atividade</h2></summary> -->
 
-<h3>Estatísticas do perfil do GitHub</h3>
+<!-- <h3>Estatísticas do perfil do GitHub</h3> -->
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-<a href="https://github.com/erteduarda"><img alt="Eduarda Tavares Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=erteduarda&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=c861ff&icon_color=c861ff" height="192px"/></a>
+<!-- <a href="https://github.com/erteduarda"><img alt="Eduarda Tavares Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=erteduarda&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=c861ff&icon_color=c861ff" height="192px"/></a>
 <a href="https://github.com/erteduarda"><img alt="Eduarda Tavares Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=erteduarda&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=c861ff&icon_color=c861ff&hide=Jupyter%20Notebook,Roff,CSS,HTML,Mako,scss" height="192px"/></a>
-<br/>
+<br/> -->
 
-<b>Note:</b> As linguagens listadas são uma métrica automática do repositórios públicos, portanto, não correspondem necessariamente ao meu domínio técnico.
+<!-- <b>Note:</b> As linguagens listadas são uma métrica automática do repositórios públicos, portanto, não correspondem necessariamente ao meu domínio técnico. -->
 
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-<a href="https://github.com/erteduarda"><img alt="Eduarda Tavares Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=erteduarda&bg_color=1F222E&color=c861ff&line=c861ff&point=FFFFFF&hide_border=true" /></a>
+<!-- <a href="https://github.com/erteduarda"><img alt="Eduarda Tavares Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=erteduarda&bg_color=1F222E&color=c861ff&line=c861ff&point=FFFFFF&hide_border=true" /></a> -->
